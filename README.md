@@ -164,3 +164,10 @@ Acknowledgements
 ArchPattern
 ===========
 Create a module for handling archival descriptions.
+
+Installation
+------------
+```bash
+mkvirutalenv pattern
+pip install pattern
+```
