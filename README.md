@@ -160,3 +160,7 @@ Acknowledgements
 - Salvatore Di Dio
 - Vincent Van Asch
 - Frederik Elwert
+
+ArchPattern
+===========
+Create a module for handling archival descriptions.
